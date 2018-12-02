@@ -1,0 +1,49 @@
+/* Students: Our work lies in the js file. */
+
+body { /* Visual */
+    background: black;
+  }
+  
+  .header {
+      color: white;
+      text-align: center;
+      font-size: 120px;
+
+
+  }
+  #display {
+    font-family: monospace;
+    font-size: 50px;
+    color: green;
+  
+    /* Typography */
+    text-align: center;
+  
+    /* Visual */
+    background: black;
+  }
+  
+  #wrapper {
+    /* Box-model */
+    width: 500px;
+  
+    /* Positioning */
+    margin: 50px auto 0;
+  }
+  
+  #buttons { /* Typography */
+    text-align: center;
+  }
+  
+  button {
+    width: 100px;
+  
+    /* Box-model */
+    height: 50px;
+  }
+
+  #triviaContainer {
+      color: white;
+      text-align: center;
+  }
+  
